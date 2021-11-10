@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/goheima/heima-config.git
+          uri: https://gitee.com/itdds/springcloud-config.git
 eureka:
   client:
     service-url:
