@@ -10,5 +10,5 @@
 2. getway 网关
 3. user-service 服务提供者（用户服务）
 4. consumer 服务消费者
-5. config_server 配置中心
+5. config-server 配置中心
 
