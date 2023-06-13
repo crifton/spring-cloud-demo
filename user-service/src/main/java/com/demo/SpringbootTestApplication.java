@@ -8,7 +8,7 @@ import tk.mybatis.spring.annotation.MapperScan;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-@MapperScan("com.itdds.mapper")//注意包扫描的命名空间引用
+@MapperScan("com.demo.mapper")//注意包扫描的命名空间引用
 public class SpringbootTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootTestApplication.class, args);
