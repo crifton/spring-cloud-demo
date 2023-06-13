@@ -13,7 +13,7 @@ spring:
     name: "user-service"
 
 mybatis:
-  type-aliases-package: com.itdds.pojo
+  type-aliases-package: com.demo.pojo
 
 eureka:
   client:
